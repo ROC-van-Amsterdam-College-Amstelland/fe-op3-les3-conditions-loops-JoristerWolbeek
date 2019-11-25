@@ -1,1 +1,6 @@
 /* stylesheet */
+#plek{
+    height: 100px;
+    width: 100%px;
+    border: solid black 3px;
+}
