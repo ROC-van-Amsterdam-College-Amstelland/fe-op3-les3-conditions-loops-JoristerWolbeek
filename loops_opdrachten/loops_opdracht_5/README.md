@@ -7,3 +7,4 @@ B)	Toon alleen de <b>oneven</b> getallen console.log() in je console
 
 Commit en push de opdracht naar GitHub
 
+if(num % 5 == 0)
